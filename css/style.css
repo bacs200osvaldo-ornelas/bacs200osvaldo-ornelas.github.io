@@ -1,16 +1,29 @@
 :root
 {
-    --favcolor: blue;
+    --favcolor: rgb(125, 0, 0);
 }
 h1
 {
   text-align: center;
   color: var(--favcolor);
-  background-color: gray;
+  background-color: rgb(50, 0, 0);
   font-size: 40pt;
 }
 section
 {
   color: var(--favcolor);
   float: right;
+}
+p
+{
+    text-align: center;
+    font-size: 15pt;
+}
+#mainpic
+{
+    border-radius: 40%;
+}
+div.button
+{
+    text-align: center;
 }
