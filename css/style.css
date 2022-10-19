@@ -1,1 +1,16 @@
-
+:root
+{
+    --favcolor: blue;
+}
+h1
+{
+  text-align: center;
+  color: var(--favcolor);
+  background-color: gray;
+  font-size: 40pt;
+}
+section
+{
+  color: var(--favcolor);
+  float: right;
+}
