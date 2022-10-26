@@ -1,1 +1,17 @@
-
+body
+{
+  background-color: rgb(52,104,105);
+}
+h1
+{
+  text-decoration: underline;
+  color: rgb(110,3,0);
+}
+ul
+{
+  font-size: 20pt;
+}
+title
+{
+  outline-style: dotted;
+}
