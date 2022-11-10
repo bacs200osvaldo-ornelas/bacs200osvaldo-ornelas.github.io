@@ -37,10 +37,19 @@ title
 .date
 {
   color: blue;
+  float: right;
 }
 nav a
 {
   font-size: 20pt;
   font-weight: bold;
   color: aqua;
+}
+#experience li
+{
+  border-bottom: 1px solid blue;
+}
+#education h3
+{
+  border-bottom: 1px solid blue;
 }
