@@ -53,3 +53,7 @@ nav a
 {
   border-bottom: 1px solid blue;
 }
+img
+{
+  border-radius: 50%;
+}
