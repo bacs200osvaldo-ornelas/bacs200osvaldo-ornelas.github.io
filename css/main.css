@@ -15,3 +15,7 @@ title
 {
   outline-style: dotted;
 }
+p
+{
+  font-size: 2vmax;
+}
