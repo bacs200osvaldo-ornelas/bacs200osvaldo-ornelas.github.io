@@ -27,3 +27,9 @@ ul
   color: rgb(115,14,10)
   font-size: 27pt;
 }
+nav a
+{
+  font-size: 25pt;
+  font-weight: bold;
+  color: rgb(115,14,10)
+}
