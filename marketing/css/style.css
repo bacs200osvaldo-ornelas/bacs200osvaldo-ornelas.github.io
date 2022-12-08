@@ -1,6 +1,6 @@
 body
 {
-  font-family: OpenSans-Regular;
+  font-family: mySansSerif;
   background-color: rgb(158,155,155);
 }
 h1
@@ -22,7 +22,7 @@ h2
 }
 section
 {
-  border: 5px solid gray;
+  border: 5px solid black;
   margin-top: 40px;
   margin-bottom: 40px;
   padding: 10px;
