@@ -1,7 +1,7 @@
 body
 {
   font-family: mySansSerif;
-  background-color: rgb(158,155,155);
+  background-color: rgb(217, 212, 212);
 }
 h1
 {
@@ -37,4 +37,8 @@ nav a
   font-size: 25pt;
   font-weight: bold;
   color: rgb(115,14,10)
+}
+li
+{
+  font-size: 25pt;
 }
